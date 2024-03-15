@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "name": "dheeraj",
+      "joiningDate": "2024-03-01",
+      "phoneNumber": "9586267988",
+      "feesPaid": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "id": "1710515104713"
+    }
+  ]
+}
